@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Tutorial Scripts\TutorialGameController.cs" Line="27" Column="21" />
+      <File FileName="Assets\Tutorial Scripts\Roadworks.cs" Line="14" Column="35" />
+      <File FileName="Assets\Tutorial Scripts\PoliceChase2.cs" Line="14" Column="53" />
+      <File FileName="Assets\Tutorial Scripts\PoliceChase1.cs" Line="14" Column="53" />
+      <File FileName="Assets\Tutorial Scripts\PoliceBlockade.cs" Line="14" Column="53" />
+      <File FileName="Assets\Tutorial Scripts\MoveLeftAndRight.cs" Line="14" Column="53" />
+      <File FileName="Assets\Tutorial Scripts\HitVehicles.cs" Line="14" Column="53" />
+      <File FileName="Assets\Game Scripts\GameController.cs" Line="19" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
